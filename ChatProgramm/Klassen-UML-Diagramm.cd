@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChatProgramm.AppSettings">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Klassen\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Benutzer">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAQAAAJAgAAgAAgAABAAAaAKAAEAAAAAACwAAAAkAA=</HashCode>
+      <FileName>Klassen\Benutzer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Client">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQSAAAAAAAAAAAAAACAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Klassen\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.DBConnection">
+    <Position X="0.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAIAEEgAAAEEAAAAAAAACAAAAA=</HashCode>
+      <FileName>Klassen\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Kontakt">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIgAAAgAAAAAQAIAAAAIgAAAAAAAAAAAE=</HashCode>
+      <FileName>Klassen\Kontakt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Nachricht">
+    <Position X="6.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAEAAAAAAAAAEAAAIAAACCAAIAAA=</HashCode>
+      <FileName>Klassen\Nachricht.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Server">
+    <Position X="4.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAACAAAQACAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Klassen\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

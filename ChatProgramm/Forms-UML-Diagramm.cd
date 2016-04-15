@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChatProgramm.Chat">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CABIIAIAECAAAIAAAICAGAASAAAAAAAIAKAAEAQAAAA=</HashCode>
+      <FileName>Forms\Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Kontaktanfrage">
+    <Position X="0.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACAAABEAAACAAEASAAAAAAAAADAAAAAAAAA=</HashCode>
+      <FileName>Forms\Kontaktanfrage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Login">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AggAACAEICAABBAAAACDAAACAAAAAAAAADAAAAAgAMA=</HashCode>
+      <FileName>Forms\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Optionen">
+    <Position X="2.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEIAACAAEACAQAABAAAACAAAAAAAAA=</HashCode>
+      <FileName>Forms\Optionen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Registrieren">
+    <Position X="7.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAACAAABAAABCAAAACCAAAAAAAADAAAAACgAA=</HashCode>
+      <FileName>Forms\Registrieren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatProgramm.Uebersicht">
+    <Position X="4.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AwAIIAAAASAEAJICCIKAAIACCAAAIAAAABAKASAABBA=</HashCode>
+      <FileName>Forms\Uebersicht.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
