@@ -10,13 +10,13 @@ namespace ChatProgramm
         #region Vars
         // Connection-String für Datenbank mit öffentlicher IP von außerhalb des Schulnetzes
         static string connStrServer1 = "Driver={MySQL ODBC 3.51 Driver};" +
-                                        "Server=193.170.68.49;Database=ginti_db;" +
-                                        "User=ginti;Password=abcde;Option=3;";
+                                        "Server=;Database=;" +
+                                        "User=;Password=;Option=3;";
 
         // Connection-String für Datenbank mit öffentlicher IP von innerhalb des Schulnetzes
         static string connStrServer2 = "Driver={MySQL ODBC 3.51 Driver};" +
-                                        "Server=10.174.27.3;Database=ginti_db;" +
-                                        "User=ginti;Password=abcde;Option=3;";
+                                        "Server=;Database=;" +
+                                        "User=;Password=;Option=3;";
         #endregion // Vars
 
         #region Constructor
